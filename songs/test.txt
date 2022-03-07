@@ -1,0 +1,6 @@
+soundfont soundfonts/percussion.sf2
+preset 0
+64 s 0 d 500
+64 s 500 d 500
+64 s 1000 d 500
+songs/test2.txt s 1500

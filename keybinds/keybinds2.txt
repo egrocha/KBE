@@ -1,0 +1,23 @@
+a 80 //definição de nota
+b 60 64 67 //definição de acorde
+c 70 77
+up v 5
+down volume -5
+right pitch 5
+left p -5
+f2 r songs/record.json
+f3 s songs/record.json
+f4 s songs/loop.txt l 5
+f5 a audio/giogio.mp3
+esc exit
+enter mute
+backspace preset 2
+delete stop
+f9 keybinds keybinds/keybinds.txt
+
+ctrl
+a 50 54 57
+
+alt
+backspace preset 0
+enter reload

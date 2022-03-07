@@ -1,0 +1,4 @@
+64 start 250 Duration 250
+67 start 500 duration 250
+72 start 750 duration 250
+60 start 0 duration 250

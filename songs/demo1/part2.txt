@@ -1,0 +1,37 @@
+soundfont /usr/share/sounds/sf2/FluidR3_GM.sf2
+preset 10
+78 start 32 duration 2477
+71 start 2454 duration 1158
+73 start 3443 duration 278
+74 start 3726 duration 492
+81 start 4182 duration 455
+78 start 4641 duration 2528
+76 start 7151 duration 255
+74 start 7307 duration 167
+73 start 7479 duration 756
+71 start 8318 duration 404
+73 start 8672 duration 429
+74 start 9146 duration 479
+78 start 9580 duration 4866
+76 start 14529 duration 163
+78 start 14688 duration 200
+81 start 14856 duration 478
+78 start 15326 duration 418
+76 start 15804 duration 1590
+78 start 17330 duration 428
+76 start 17832 duration 368
+74 start 18219 duration 359
+76 start 18547 duration 500
+78 start 19021 duration 254
+78 start 19477 duration 4914
+76 start 24442 duration 204
+78 start 24602 duration 195
+83 start 24757 duration 501
+78 start 25226 duration 436
+76 start 25671 duration 1558
+78 start 27244 duration 406
+76 start 27718 duration 719
+74 start 28142 duration 336
+71 start 28470 duration 495
+76 start 28933 duration 483
+74 start 29380 duration 1247
