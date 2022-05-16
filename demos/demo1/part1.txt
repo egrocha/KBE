@@ -1,0 +1,38 @@
+soundfont soundfonts/percussion2.sf2
+preset 0
+36 start 0 duration 87
+36 start 300 duration 55
+38 start 600 duration 255
+36 start 1102 duration 87
+36 start 1425 duration 55
+36 start 1544 duration 82
+38 start 1894 duration 109
+36 start 2227 duration 77
+36 start 2536 duration 78
+36 start 2837 duration 300
+38 start 3128 duration 123
+36 start 3447 duration 64
+36 start 3589 duration 72
+36 start 3893 duration 59
+36 start 4021 duration 91
+38 start 4358 duration 127
+36 start 4690 duration 73
+36 start 5009 duration 68
+36 start 5323 duration 314
+38 start 5615 duration 104
+36 start 5906 duration 59
+36 start 6056 duration 82
+36 start 6372 duration 58
+36 start 6512 duration 82
+38 start 6840 duration 100
+36 start 7151 duration 76
+36 start 7468 duration 70
+36 start 7773 duration 101
+38 start 8088 duration 95
+36 start 8384 duration 54
+36 start 8539 duration 68
+36 start 8867 duration 54
+36 start 8994 duration 77
+38 start 9317 duration 96
+36 start 9636 duration 264
+pause d 1000
