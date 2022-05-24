@@ -1,0 +1,109 @@
+//notas e acordes
+> 21
+Z 23
+X 24
+C 26
+V 28
+B 29
+N 31
+M 33
+; 35
+: 36
+_ 38
+A 22
+S 22
+D 25
+F 27
+G 27
+H 30
+J 32
+K 34
+L 34
+Ç 37
+ª 39
+^ 39
+Q 40
+W 41
+E 43
+R 45
+T 47
+Y 48
+U 50
+I 52
+O 53
+P 55
+* 57
+| 39
+! 39
+" 39
+# 42
+$ 44
+% 46
+/ 49
+( 51
+) 51
+= 54
+? 56
+» 58
+< 59
+z 60
+x 62
+c 64
+v 65
+b 67
+n 69
+m 71
+, 72
+. 74
+- 76
+a 58
+s 61
+d 63
+f 63
+g 66
+h 68
+j 70
+k 70
+l 73
+ç 75
+º 75
+~ 75
+q 77
+w 79
+e 81
+r 83
+t 84
+y 86
+u 88
+i 89
+o 91
+p 93
++ 95
+\ 75
+1 75
+2 78
+3 80
+4 82
+5 82
+6 85
+7 87
+8 87
+9 90
+0 92
+' 94
+« 60 64 67 72
+
+//eventos de controlo
+up volume 5
+down volume -5
+right pitch 12
+left pitch -12
+esc exit
+enter mute
+backspace preset 47
+delete stop
+
+alt
+1 song demos/demo1/part1.txt
+2 song demos/demo1/part2.txt
+3 song demos/demo1/part3.txt
