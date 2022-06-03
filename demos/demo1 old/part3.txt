@@ -1,8 +1,0 @@
-soundfont /usr/share/sounds/sf2/FluidR3_GM.sf2
-preset 14
-85 start 0 duration 2167
-73 start 8261 duration 268
-74 start 8594 duration 481
-81 start 9039 duration 541
-78 start 9554 duration 1243
-85 start 10783 duration 1292

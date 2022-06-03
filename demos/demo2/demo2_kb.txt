@@ -103,7 +103,26 @@ enter mute
 backspace preset 47
 delete stop
 
+//gravações, músicas, áudio, etc.
+//f2 record songs/record.txt
+f2 record
+f3 song songs/record.txt
+f4 song songs/song.txt loop 2 pitch 12
+f5 audio audio/gwyn.mp3 start 0 end 5 volume -20
+f6 audio audio/hip_shop.mp3 start 0 end 30
+f7 audio audio/giogio.mp3 start 0 end 40 volume -15
+space metronome 180 time 3
+f8 metronome 60
+
+
 alt
-1 song demos/demo1/part1.txt
-2 song demos/demo1/part2.txt
-3 song demos/demo1/part3.txt
+1 song demos/demo2/part1.txt
+2 song demos/demo2/part2.txt
+3 song demos/demo2/part3.txt
+4 song demos/demo2/part4.txt
+
+
+default preset 0
+default soundfont /usr/share/sounds/sf2/FluidR3_GM.sf2
+//default volume 50
+//default pitch 10
